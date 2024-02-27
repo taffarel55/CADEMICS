@@ -1,3 +1,6 @@
 [submodule "courses/verilog-language-and-application"]
 	path = courses/verilog-language-and-application
 	url = git@github.com:taffarel55/verilog-language-and-application-v27.0-public.git
+[submodule "courses/systemverilog-for-design-and-verification"]
+	path = courses/systemverilog-for-design-and-verification
+	url = git@github.com:taffarel55/systemverilog-for-design-and-verification-v21.10-public.git

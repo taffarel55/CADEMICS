@@ -20,8 +20,7 @@ git submodule update --init
 ## 🎓 Courses
 
 - [Verilog Language and Application v27.0](https://github.com/taffarel55/verilog-language-and-application-v27.0-public/)
-- SystemVerilog for Design and
-  Verification (SOON)
+- [SystemVerilog for Design and Verification v21.10](https://github.com/taffarel55/systemverilog-for-design-and-verification-v21.10-public)
 - Essential SystemVerilog for UVM
   (SOON)
 - Essential SystemVerilog for UVM
